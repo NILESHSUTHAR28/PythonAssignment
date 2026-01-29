@@ -1,6 +1,6 @@
 # PythonAssignment
 
-# Python Assignment – Dictionary & List Slicing
+# Python Assignment 5 – Dictionary & List Slicing
 
 Description
 This repository contains a simple Python program that demonstrates:
